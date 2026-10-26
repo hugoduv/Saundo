@@ -2,4 +2,7 @@ Drivers/
 EWARM/
 
 *.ioc
+*.cproject
 *.mxproject
+*.project
+*.ld
